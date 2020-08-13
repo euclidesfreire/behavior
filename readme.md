@@ -3,13 +3,13 @@ BEHAVIOR
 
 Introdução
 ------------
-*Projeto usado para Estudar Estrutura de Dados de "Algoritmos teoria e prática... - Thomas"
+* Projeto usado para Estudar Estrutura de Dados de "Algoritmos teoria e prática... - Thomas"
 
 Abstract Data Structure
 ------------------------
 Sorting:
 --------
- *Insertion Sort
+ * Insertion Sort
 
 Tecnologias utilizadas:
 -----------------------

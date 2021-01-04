@@ -3,7 +3,7 @@ BEHAVIOR
 
 Introdução
 ------------
-* Projeto usado para Estudar Estrutura de Dados de "Algoritmos teoria e prática... - Thomas"
+* Projeto usado para Estudo de Estrutura de Dados de "Algoritmos teoria e prática... - Thomas"
 
 Abstract Data Structure
 ------------------------
